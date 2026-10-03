@@ -3868,7 +3868,9 @@ local function main()
 			["true"] = true,
 			["until"] = true,
 			["while"] = true,
-			["plugin"] = true
+			["plugin"] = true,
+			["const"] = true,
+			["export"] = true
 		}
 
 		local builtIns = {
