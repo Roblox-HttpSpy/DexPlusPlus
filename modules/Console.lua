@@ -415,7 +415,7 @@ local function main()
 			local keywords = {
 				lua = {
 					"and", "break", "or", "else", "elseif", "if", "then", "until", "repeat", "while", "do", "for", "in", "end",
-					"local", "return", "function", "export"
+					"local", "return", "function", "export", "const"
 				},
 				rbx = {
 					"game", "workspace", "script", "math", "string", "table", "task", "wait", "select", "next", "Enum",
